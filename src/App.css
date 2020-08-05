@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.name input{
+  width: 50%;
+  transform: translateX(50%);
+}
+
+.name{
+  transform: translateY(300%);
+}
+
+
+.namesub{
+  transform: translateY(700%);
+}
