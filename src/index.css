@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.active-class{
+    color: deeppink;
+    padding-bottom: 6px;
+    border-bottom: 1px solid deeppink;
+}
+
+.mr{
+  margin-right: 2rem;
+}
